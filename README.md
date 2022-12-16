@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Major-Usama
+- 👋 Hi, I’m Muhammad Usama
 - 👀 I’m interested in React Native Development
 - 🌱 I’m currently working in React Native
 - 💞️ I’m looking to collaborate on front-end projects
